@@ -1,0 +1,21 @@
+ /** {
+  outline: 1px solid black;
+} */
+
+header {
+background-color: red;
+}
+
+aside {
+/*background-color: blue;*/
+height:650
+}
+
+main {
+/*background-color: yellow;*/
+height:450
+    }
+
+    h1{
+color: green;
+}
