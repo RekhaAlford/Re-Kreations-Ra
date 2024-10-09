@@ -3,19 +3,21 @@
 } */
 
 header {
-background-color: red;
+  background-color: red;
 }
-
 aside {
 /*background-color: blue;*/
-height:650
+height:650px;
+}
+main {
+  /*background-color: yellow;*/
+height:650px;
+}
+footer {
+  /*background-color: pink;*/
+  height:50px;
 }
 
-main {
-/*background-color: yellow;*/
-height:450
-    }
-
-    h1{
-color: green;
+h1{
+  color: white;
 }
