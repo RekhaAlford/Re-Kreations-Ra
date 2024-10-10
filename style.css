@@ -1,0 +1,23 @@
+ /** {
+  outline: 1px solid black;
+} */
+
+header {
+  background-color: red;
+}
+aside {
+/*background-color: blue;*/
+height:650px;
+}
+main {
+  /*background-color: yellow;*/
+height:650px;
+}
+footer {
+  /*background-color: pink;*/
+  height:50px;
+}
+
+h1{
+  color: white;
+}
