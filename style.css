@@ -3,7 +3,11 @@
 } */
 
 header {
-  background-color: red;
+  background-color: aqua;
+}
+
+a { font-weight:bold;
+
 }
 aside {
 /*background-color: blue;*/
@@ -19,5 +23,5 @@ footer {
 }
 
 h1{
-  color: white;
+  color: black;
 }
